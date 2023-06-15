@@ -1,8 +1,4 @@
-import re
-import json
-import requests
-
-
+import re,json,requests
 log_file = './interview_data_set'
 
 def log_analysis():
